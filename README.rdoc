@@ -1,5 +1,7 @@
 == README
 
+A halloween app pulling instagram pictures by #halloween + other #tags.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
